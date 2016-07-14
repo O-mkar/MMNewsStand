@@ -8,7 +8,7 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="NewsStand" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController automaticallyAdjustsScrollViewInsets="NO" id="BYZ-38-t0r" customClass="ViewController" customModule="NewsStand" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -94,9 +94,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="MGZ-77-OQG" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="08X-R5-3PG"/>
-                            <constraint firstItem="hl7-2A-Y88" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="3XZ-cQ-ivm"/>
-                            <constraint firstItem="hl7-2A-Y88" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="LTG-cb-Q6p"/>
+                            <constraint firstItem="hl7-2A-Y88" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="DgQ-Ll-MiQ"/>
                             <constraint firstItem="hl7-2A-Y88" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="O7M-VP-48N"/>
+                            <constraint firstItem="hl7-2A-Y88" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" id="SwA-oP-6er"/>
                             <constraint firstItem="hl7-2A-Y88" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="rjl-TU-Q4g"/>
                         </constraints>
                     </view>
@@ -117,7 +117,7 @@
         <!--Navigation Controller-->
         <scene sceneID="hDn-kf-knE">
             <objects>
-                <navigationController autoresizesArchivedViewToFullSize="NO" automaticallyAdjustsScrollViewInsets="NO" navigationBarHidden="YES" id="IpR-Qo-ao3" sceneMemberID="viewController">
+                <navigationController autoresizesArchivedViewToFullSize="NO" automaticallyAdjustsScrollViewInsets="NO" id="IpR-Qo-ao3" sceneMemberID="viewController">
                     <extendedEdge key="edgesForExtendedLayout"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Ueq-Wl-Ec6">

@@ -30,6 +30,8 @@ class ViewController: UIViewController,UIScrollViewDelegate, UITableViewDataSour
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
         self.view.layoutIfNeeded()
+        self.view.layoutSubviews()
+        self.mScrollView.layoutIfNeeded()
         createHorizontalScroller()
         self.navigationController?.navigationBarHidden = false
         self.tabBarView.clipsToBounds = false
