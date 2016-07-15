@@ -9,6 +9,10 @@ https://itunes.apple.com/in/app/google-play-newsstand/id459182288?mt=8
 
 ##Demo
 
+####Video Demo https://youtu.be/yalN1oJzSLU
+
+![MMNewsStand](https://github.com/O-mkar/MMNewsStand/blob/master/NewsStand/Newsstand.gif)<br />
+
 
 ##Files Required 
 
