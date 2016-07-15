@@ -19,6 +19,7 @@
 		FA57237F1D38038A00A8EB55 /* UIView+MaterialDesign.m in Sources */ = {isa = PBXBuildFile; fileRef = FA57237E1D38038A00A8EB55 /* UIView+MaterialDesign.m */; };
 		FA5723811D380E2A00A8EB55 /* rest-bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA5723801D380E2A00A8EB55 /* rest-bg.jpg */; };
 		FA5723831D380E8400A8EB55 /* restIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5723821D380E8400A8EB55 /* restIcon.png */; };
+		FA5723851D38AF0E00A8EB55 /* Newsstand.gif in Resources */ = {isa = PBXBuildFile; fileRef = FA5723841D38AF0E00A8EB55 /* Newsstand.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		FA57237E1D38038A00A8EB55 /* UIView+MaterialDesign.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+MaterialDesign.m"; sourceTree = "<group>"; };
 		FA5723801D380E2A00A8EB55 /* rest-bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rest-bg.jpg"; sourceTree = "<group>"; };
 		FA5723821D380E8400A8EB55 /* restIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = restIcon.png; sourceTree = "<group>"; };
+		FA5723841D38AF0E00A8EB55 /* Newsstand.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Newsstand.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 		FA5723351D35489E00A8EB55 /* NewsStand */ = {
 			isa = PBXGroup;
 			children = (
+				FA5723841D38AF0E00A8EB55 /* Newsstand.gif */,
 				FA57236A1D36A4F900A8EB55 /* PwedsS-Goa (61 of 71).jpg */,
 				FA57236E1D37A4ED00A8EB55 /* eating-bg.jpg */,
 				FA5723801D380E2A00A8EB55 /* rest-bg.jpg */,
@@ -155,6 +158,7 @@
 				FA57236D1D37A10A00A8EB55 /* Hotel & Leisure.png in Resources */,
 				FA57236F1D37A4ED00A8EB55 /* eating-bg.jpg in Resources */,
 				FA57233E1D35489E00A8EB55 /* Assets.xcassets in Resources */,
+				FA5723851D38AF0E00A8EB55 /* Newsstand.gif in Resources */,
 				FA57233C1D35489E00A8EB55 /* Main.storyboard in Resources */,
 				FA5723831D380E8400A8EB55 /* restIcon.png in Resources */,
 				FA57236B1D36A4F900A8EB55 /* PwedsS-Goa (61 of 71).jpg in Resources */,

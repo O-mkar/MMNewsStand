@@ -85,6 +85,7 @@ class ViewController: UIViewController,UIScrollViewDelegate, UITableViewDataSour
     func tableAtIndex(index: Int) -> UITableView {
         return self.view.viewWithTag(tables[index]) as! UITableView
     }
+
     func createHorizontalScroller(){
         
         var x , y ,buffer:CGFloat
