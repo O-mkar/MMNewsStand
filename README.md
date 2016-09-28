@@ -25,7 +25,7 @@ https://itunes.apple.com/in/app/google-play-newsstand/id459182288?mt=8
 ####Credits
 * JBKenBurns (https://github.com/jberlana/JBKenBurns) for KenBurns Effect
 * ios-material-design (https://github.com/moqod/ios-material-design) for Ripple Effect
-
+* MMGooglePlayNewsStand (https://github.com/mukyasa/MMGooglePlayNewsStand) for animation and some code. 
 Contact Me
 ==========
 Omkar Harmalkar
